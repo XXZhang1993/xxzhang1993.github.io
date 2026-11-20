@@ -1,0 +1,141 @@
+[
+  {
+    "title": "Structured but Fragile: On the Limits of LLMs in Cybersecurity Decision-Making",
+    "authors": [
+      "Pasquale Malacaria",
+      "Yunxiao Zhang"
+    ],
+    "year": 2026,
+    "venue": "arXiv:2608.20966",
+    "url": "https://arxiv.org/abs/2608.20966",
+    "preprint": true,
+    "topics": [
+      "decisions",
+      "ai"
+    ],
+    "equalContribution": [
+      "Pasquale Malacaria",
+      "Yunxiao Zhang"
+    ],
+    "reviewStatus": "Under review"
+  },
+  {
+    "title": "Audio Deepfake Detection at the First Greeting: \"Hi!\"",
+    "authors": [
+      "Haohan Shi",
+      "Xiyu Shi",
+      "Safak Dogan",
+      "Tianjin Huang",
+      "Yunxiao Zhang"
+    ],
+    "year": 2026,
+    "venue": "2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+    "url": "https://doi.org/10.1109/ICASSP55912.2026.11463587",
+    "arxiv": "https://arxiv.org/abs/2601.19573",
+    "preprint": false,
+    "topics": [
+      "ai"
+    ]
+  },
+  {
+    "title": "Strategic Decision-Making in Uncertain Turn-Based Security Games",
+    "authors": [
+      "Pasquale Malacaria",
+      "Yunxiao Zhang"
+    ],
+    "year": 2026,
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "volume": "21",
+    "pages": "5221–5236",
+    "url": "https://doi.org/10.1109/TIFS.2026.3698586",
+    "preprint": false,
+    "topics": [
+      "decisions"
+    ]
+  },
+  {
+    "title": "Benchmarking Audio Deepfake Detection Robustness in Real-world Communication Scenarios",
+    "authors": [
+      "Haohan Shi",
+      "Xiyu Shi",
+      "Safak Dogan",
+      "Saif Alzubi",
+      "Tianjin Huang",
+      "Yunxiao Zhang"
+    ],
+    "year": 2025,
+    "venue": "2025 33rd European Signal Processing Conference (EUSIPCO)",
+    "url": "https://doi.org/10.23919/EUSIPCO63237.2025.11226601",
+    "arxiv": "https://arxiv.org/abs/2504.12423",
+    "pdf": "https://eusipco2025.org/wp-content/uploads/pdfs/0000566.pdf",
+    "preprint": false,
+    "topics": [
+      "ai"
+    ],
+    "dataset": "https://www.kaggle.com/datasets/anthoneys/add-caudio-deepfake-detection-communication"
+  },
+  {
+    "title": "Dealing with uncertainty in cybersecurity decision support",
+    "authors": [
+      "Yunxiao Zhang",
+      "Pasquale Malacaria"
+    ],
+    "year": 2025,
+    "venue": "Computers & Security",
+    "volume": "148",
+    "article": "104153",
+    "url": "https://doi.org/10.1016/j.cose.2024.104153",
+    "preprint": false,
+    "topics": [
+      "decisions"
+    ]
+  },
+  {
+    "title": "Keep Spending: Beyond Optimal Cyber-Security Investment",
+    "authors": [
+      "Yunxiao Zhang",
+      "Pasquale Malacaria"
+    ],
+    "year": 2023,
+    "venue": "2023 IEEE 36th Computer Security Foundations Symposium (CSF)",
+    "pages": "123–136",
+    "url": "https://doi.org/10.1109/CSF57540.2023.00024",
+    "preprint": false,
+    "topics": [
+      "decisions"
+    ]
+  },
+  {
+    "title": "Optimization-Time Analysis for Cybersecurity",
+    "authors": [
+      "Yunxiao Zhang",
+      "Pasquale Malacaria"
+    ],
+    "year": 2022,
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "volume": "19",
+    "issue": "4",
+    "pages": "2365–2383",
+    "url": "https://doi.org/10.1109/TDSC.2021.3055981",
+    "preprint": false,
+    "topics": [
+      "decisions"
+    ]
+  },
+  {
+    "title": "Bayesian Stackelberg games for cyber-security decision support",
+    "authors": [
+      "Yunxiao Zhang",
+      "Pasquale Malacaria"
+    ],
+    "year": 2021,
+    "venue": "Decision Support Systems",
+    "volume": "148",
+    "article": "113599",
+    "url": "https://doi.org/10.1016/j.dss.2021.113599",
+    "preprint": false,
+    "topics": [
+      "decisions"
+    ]
+  }
+]
