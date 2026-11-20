@@ -54,6 +54,23 @@
     ]
   },
   {
+    "title": "Multi-Granularity Adaptive Time-Frequency Attention Framework for Audio Deepfake Detection under Real-World Communication Degradations",
+    "authors": [
+      "Haohan Shi",
+      "Xiyu Shi",
+      "Safak Dogan",
+      "Tianjin Huang",
+      "Yunxiao Zhang"
+    ],
+    "year": 2025,
+    "venue": "arXiv:2508.01467",
+    "url": "https://arxiv.org/abs/2508.01467",
+    "preprint": true,
+    "topics": [
+      "ai"
+    ]
+  },
+  {
     "title": "Benchmarking Audio Deepfake Detection Robustness in Real-world Communication Scenarios",
     "authors": [
       "Haohan Shi",
